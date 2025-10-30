@@ -1021,5 +1021,8 @@
       "width": 0.97,
       "height": 1
     }
+  },
+  "devSettings": {
+    "bypassCache": true
   }
 }
