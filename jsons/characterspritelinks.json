@@ -69,7 +69,7 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/kim/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/kim/neutral.png"
   },
-  "leo": {
+  "michael": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/embarrassed.png",
     "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/nervous.png",
@@ -89,7 +89,7 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/liora/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/liora/neutral.png"
   },
-  "michael": {
+  "leo": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/michael/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/michael/embarrassed.png",
     "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/michael/nervous.png",
@@ -169,4 +169,5 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/neutral.png"
   }
+
 }
