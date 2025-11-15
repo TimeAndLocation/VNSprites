@@ -32,6 +32,31 @@
     "salmon": "#F5685D",
     "lime": "#9CFA64"
   },
+  "characterNames": {
+    "purple": "Leo",
+    "turquoise": "Xavier",
+    "pink": "Star",
+    "cyan": "Olivia",
+    "blue": "Kim",
+    "cream": "Ronan",
+    "green": "#noticing",
+    "lime": "Key Character",
+    "salmon": "Key Character",
+    "red": "Theo (the goat)",
+    "yellow": "Liora",
+    "brown": "Derrick",
+    "orange": "Alex",
+    "magenta": "Ranok",
+    "lilac": "Michael",
+    "pastel": "Key Character",
+    "rose": "Key Character"
+  },
+  "profileViewSettings": {
+    "purple": {
+      "zoom": 1,
+      "yOffset": 0
+    }
+  },
   "aiSettings": {
     "showAiReminder": true
   },
