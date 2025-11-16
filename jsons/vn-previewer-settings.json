@@ -51,12 +51,6 @@
     "pastel": "Key Character",
     "rose": "Key Character"
   },
-  "profileViewSettings": {
-    "purple": {
-      "zoom": 1,
-      "yOffset": 0
-    }
-  },
   "aiSettings": {
     "showAiReminder": true
   },
@@ -1092,6 +1086,94 @@
     "cream": {
       "width": 0.97,
       "height": 1
+    }
+  },
+  "profileViewSettings": {
+    "purple": {
+      "zoom": 275,
+      "yOffset": 0,
+      "x": 65,
+      "y": 126
+    },
+    "red": {
+      "zoom": 310,
+      "x": 50,
+      "y": 150
+    },
+    "turquoise": {
+      "zoom": 234,
+      "x": 50,
+      "y": 120
+    },
+    "yellow": {
+      "zoom": 271,
+      "x": 55,
+      "y": 120
+    },
+    "pink": {
+      "zoom": 280,
+      "x": 52,
+      "y": 138
+    },
+    "brown": {
+      "zoom": 341,
+      "x": 74,
+      "y": 159
+    },
+    "cyan": {
+      "zoom": 341,
+      "x": 50,
+      "y": 160
+    },
+    "orange": {
+      "zoom": 324,
+      "x": 60,
+      "y": 150
+    },
+    "blue": {
+      "zoom": 249,
+      "x": 46,
+      "y": 105
+    },
+    "magenta": {
+      "zoom": 339,
+      "x": 50,
+      "y": 143
+    },
+    "cream": {
+      "zoom": 272,
+      "x": 50,
+      "y": 139
+    },
+    "lilac": {
+      "zoom": 258,
+      "x": 43,
+      "y": 134
+    },
+    "green": {
+      "zoom": 320,
+      "x": 23,
+      "y": 150
+    },
+    "pastel": {
+      "zoom": 283,
+      "x": 50,
+      "y": 139
+    },
+    "lime": {
+      "zoom": 296,
+      "x": 35,
+      "y": 150
+    },
+    "rose": {
+      "zoom": 341,
+      "x": 60,
+      "y": 168
+    },
+    "salmon": {
+      "zoom": 362,
+      "x": 50,
+      "y": 172
     }
   },
   "devSettings": {
