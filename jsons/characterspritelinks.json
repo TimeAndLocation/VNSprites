@@ -70,14 +70,14 @@
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/kim/neutral.png"
   },
   "michael": {
-    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/angry.png",
-    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/embarrassed.png",
-    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/nervous.png",
-    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/questioning.png",
-    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/smile.png",
-    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/worry.png",
-    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/surprised.png",
-    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/neutral.png"
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/grantly/neutral.png"
   },
   "liora": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/liora/angry.png",
@@ -169,5 +169,6 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/neutral.png"
   }
+
 
 }
