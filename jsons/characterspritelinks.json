@@ -99,6 +99,16 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/neutral.png"
   },
+  "argo": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/neutral.png"
+  },
   "nkc": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/nkc/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/nkc/embarrassed.png",
@@ -172,3 +182,4 @@
 
 
 }
+
