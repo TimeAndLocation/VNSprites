@@ -30,7 +30,8 @@
     "magenta": "#cd67d0",
     "blue": "#0074D9",
     "salmon": "#F5685D",
-    "lime": "#9CFA64"
+    "lime": "#9CFA64",
+    "mint": "#00FF9D"
   },
   "characterNames": {
     "purple": "Leo",
@@ -49,7 +50,8 @@
     "magenta": "Ranok",
     "lilac": "Michael",
     "pastel": "???",
-    "rose": "Kai"
+    "rose": "Kai",
+    "mint": "Argo"
   },
   "aiSettings": {
     "showAiReminder": true
@@ -1080,6 +1082,68 @@
         "x": 44,
         "y": 5
       }
+    },
+    "mint": {
+      "sparkle": {
+        "x": 53,
+        "y": 5
+      },
+      "anger": {
+        "x": 53,
+        "y": 5
+      },
+      "sweat": {
+        "x": 55,
+        "y": 11
+      },
+      "idea": {
+        "x": 52,
+        "y": 5
+      },
+      "question": {
+        "x": 73,
+        "y": 9
+      },
+      "shock": {
+        "x": 50,
+        "y": 6
+      },
+      "laugh": {
+        "x": 50,
+        "y": 10
+      },
+      "ghost": {
+        "x": 55,
+        "y": 16
+      },
+      "sigh": {
+        "x": 50,
+        "y": 18
+      },
+      "gloomy": {
+        "x": 73,
+        "y": 8
+      },
+      "confusion": {
+        "x": 50,
+        "y": 14
+      },
+      "exclamation": {
+        "x": 55,
+        "y": 8
+      },
+      "love": {
+        "x": 55,
+        "y": 5
+      },
+      "ellipsis": {
+        "x": 53,
+        "y": 11
+      },
+      "dizzy": {
+        "x": 54,
+        "y": 5
+      }
     }
   },
   "characterScaling": {
@@ -1174,6 +1238,11 @@
       "zoom": 362,
       "x": 50,
       "y": 172
+    },
+    "mint": {
+      "zoom": 307,
+      "x": 16,
+      "y": 155
     }
   },
   "devSettings": {
