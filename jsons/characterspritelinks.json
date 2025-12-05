@@ -160,14 +160,14 @@
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/star/neutral.png"
   },
   "theo": {
-    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/angry.png",
-    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/embarrassed.png",
-    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/nervous.png",
-    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/questioning.png",
-    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/smile.png",
-    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/worry.png",
-    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/surprised.png",
-    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/newtheo/neutral.png"
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/theonew/neutral.png"
   },
 "xavier": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/angry.png",
@@ -182,5 +182,6 @@
 
 
 }
+
 
 
