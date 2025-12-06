@@ -31,7 +31,8 @@
     "blue": "#0074D9",
     "salmon": "#F5685D",
     "lime": "#9CFA64",
-    "mint": "#00FF9D"
+    "mint": "#00FF9D",
+    "amber": "#FF7A00"
   },
   "characterNames": {
     "purple": "Leo",
@@ -1148,6 +1149,68 @@
         "x": 54,
         "y": 5
       }
+    },
+    "amber": {
+      "anger": {
+        "x": 64,
+        "y": 16
+      },
+      "sweat": {
+        "x": 63,
+        "y": 19
+      },
+      "idea": {
+        "x": 64,
+        "y": 12
+      },
+      "question": {
+        "x": 62,
+        "y": 13
+      },
+      "shock": {
+        "x": 44,
+        "y": 11
+      },
+      "laugh": {
+        "x": 46,
+        "y": 17
+      },
+      "sparkle": {
+        "x": 63,
+        "y": 14
+      },
+      "ghost": {
+        "x": 43,
+        "y": 18
+      },
+      "sigh": {
+        "x": 39,
+        "y": 22
+      },
+      "gloomy": {
+        "x": 63,
+        "y": 11
+      },
+      "confusion": {
+        "x": 39,
+        "y": 19
+      },
+      "exclamation": {
+        "x": 63,
+        "y": 14
+      },
+      "love": {
+        "x": 65,
+        "y": 14
+      },
+      "ellipsis": {
+        "x": 57,
+        "y": 13
+      },
+      "dizzy": {
+        "x": 63,
+        "y": 11
+      }
     }
   },
   "characterScaling": {
@@ -1247,6 +1310,11 @@
       "zoom": 307,
       "x": 16,
       "y": 155
+    },
+    "amber": {
+      "zoom": 307,
+      "x": 26,
+      "y": 157
     }
   },
   "devSettings": {
