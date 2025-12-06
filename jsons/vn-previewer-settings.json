@@ -43,7 +43,7 @@
     "green": "king rainey",
     "lime": "???",
     "salmon": "Elara Finch",
-    "red": "Theo (the goat)",
+    "red": "Theo",
     "yellow": "Liora",
     "brown": "Derrick",
     "orange": "Alex",
@@ -671,6 +671,10 @@
       "exclamation": {
         "x": 50,
         "y": 4
+      },
+      "idea": {
+        "x": 50,
+        "y": 6
       }
     },
     "pastel": {
@@ -1032,7 +1036,7 @@
       },
       "gloomy": {
         "x": 41,
-        "y": 6
+        "y": 7
       },
       "confusion": {
         "x": 39,
