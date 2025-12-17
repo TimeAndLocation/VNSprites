@@ -33,7 +33,30 @@
     "lime": "#9CFA64",
     "mint": "#00FF9D",
     "amber": "#FF7A00",
-    "violet": "#4D00FF"
+    "violet": "#4D00FF",
+    "forest": "#0B6623"
+  },
+  "characterVisibility": {
+    "red": true,
+    "purple": true,
+    "yellow": true,
+    "pink": true,
+    "rose": true,
+    "brown": true,
+    "cyan": true,
+    "green": true,
+    "orange": true,
+    "turquoise": true,
+    "pastel": true,
+    "cream": true,
+    "lilac": true,
+    "magenta": true,
+    "blue": true,
+    "salmon": true,
+    "lime": true,
+    "mint": true,
+    "amber": true,
+    "violet": true
   },
   "characterNames": {
     "purple": "Leo",
@@ -1276,6 +1299,68 @@
         "x": 62,
         "y": 17
       }
+    },
+    "forest": {
+      "anger": {
+        "x": 54,
+        "y": 15
+      },
+      "sweat": {
+        "x": 52,
+        "y": 17
+      },
+      "idea": {
+        "x": 53,
+        "y": 13
+      },
+      "question": {
+        "x": 55,
+        "y": 15
+      },
+      "shock": {
+        "x": 17,
+        "y": 13
+      },
+      "laugh": {
+        "x": 17,
+        "y": 15
+      },
+      "sparkle": {
+        "x": 49,
+        "y": 15
+      },
+      "ghost": {
+        "x": 20,
+        "y": 25
+      },
+      "sigh": {
+        "x": 18,
+        "y": 25
+      },
+      "gloomy": {
+        "x": 53,
+        "y": 18
+      },
+      "confusion": {
+        "x": 20,
+        "y": 25
+      },
+      "exclamation": {
+        "x": 54,
+        "y": 17
+      },
+      "love": {
+        "x": 50,
+        "y": 17
+      },
+      "ellipsis": {
+        "x": 50,
+        "y": 16
+      },
+      "dizzy": {
+        "x": 53,
+        "y": 16
+      }
     }
   },
   "characterScaling": {
@@ -1385,6 +1470,11 @@
       "zoom": 368,
       "x": 36,
       "y": 150
+    },
+    "forest": {
+      "zoom": 333,
+      "x": 71,
+      "y": 149
     }
   },
   "devSettings": {
