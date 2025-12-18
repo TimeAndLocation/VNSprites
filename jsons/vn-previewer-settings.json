@@ -34,7 +34,8 @@
     "mint": "#00FF9D",
     "amber": "#FF7A00",
     "violet": "#4D00FF",
-    "forest": "#0B6623"
+    "forest": "#0B6623",
+    "gold": "#FFD700"
   },
   "characterVisibility": {
     "red": true,
@@ -78,7 +79,9 @@
     "rose": "???",
     "mint": "Argo",
     "amber": "Bayfleet",
-    "violet": "Gamir"
+    "violet": "Gamir",
+    "forest": "Creon",
+    "gold": "Zephyr"
   },
   "aiSettings": {
     "showAiReminder": true
@@ -1361,6 +1364,64 @@
         "x": 53,
         "y": 16
       }
+    },
+    "gold": {
+      "anger": {
+        "x": 43,
+        "y": 17
+      },
+      "sweat": {
+        "x": 38,
+        "y": 20
+      },
+      "idea": {
+        "x": 40,
+        "y": 16
+      },
+      "shock": {
+        "x": 36,
+        "y": 19
+      },
+      "laugh": {
+        "x": 35,
+        "y": 20
+      },
+      "sparkle": {
+        "x": 39,
+        "y": 17
+      },
+      "ghost": {
+        "x": 42,
+        "y": 27
+      },
+      "sigh": {
+        "x": 39,
+        "y": 29
+      },
+      "gloomy": {
+        "x": 41,
+        "y": 18
+      },
+      "confusion": {
+        "x": 32,
+        "y": 26
+      },
+      "exclamation": {
+        "x": 69,
+        "y": 21
+      },
+      "love": {
+        "x": 41,
+        "y": 17
+      },
+      "ellipsis": {
+        "x": 43,
+        "y": 17
+      },
+      "dizzy": {
+        "x": 68,
+        "y": 18
+      }
     }
   },
   "characterScaling": {
@@ -1475,6 +1536,11 @@
       "zoom": 333,
       "x": 71,
       "y": 149
+    },
+    "gold": {
+      "zoom": 313,
+      "x": 47,
+      "y": 141
     }
   },
   "devSettings": {
