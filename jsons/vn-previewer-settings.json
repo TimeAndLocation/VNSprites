@@ -81,7 +81,8 @@
     "amber": "Bayfleet",
     "violet": "Gamir",
     "forest": "Creon",
-    "gold": "Zephyr"
+    "gold": "Zephyr",
+    "teal": "Arthur"
   },
   "aiSettings": {
     "showAiReminder": true
@@ -1422,6 +1423,68 @@
         "x": 68,
         "y": 18
       }
+    },
+    "teal": {
+      "anger": {
+        "x": 61,
+        "y": 14
+      },
+      "sweat": {
+        "x": 59,
+        "y": 13
+      },
+      "idea": {
+        "x": 59,
+        "y": 13
+      },
+      "question": {
+        "x": 57,
+        "y": 10
+      },
+      "shock": {
+        "x": 36,
+        "y": 10
+      },
+      "laugh": {
+        "x": 36,
+        "y": 14
+      },
+      "sparkle": {
+        "x": 59,
+        "y": 13
+      },
+      "ghost": {
+        "x": 35,
+        "y": 21
+      },
+      "sigh": {
+        "x": 31,
+        "y": 22
+      },
+      "gloomy": {
+        "x": 58,
+        "y": 13
+      },
+      "confusion": {
+        "x": 32,
+        "y": 21
+      },
+      "exclamation": {
+        "x": 59,
+        "y": 11
+      },
+      "love": {
+        "x": 60,
+        "y": 13
+      },
+      "ellipsis": {
+        "x": 58,
+        "y": 14
+      },
+      "dizzy": {
+        "x": 62,
+        "y": 11
+      }
     }
   },
   "characterScaling": {
@@ -1541,6 +1604,11 @@
       "zoom": 313,
       "x": 47,
       "y": 141
+    },
+    "teal": {
+      "zoom": 318,
+      "x": 50,
+      "y": 159
     }
   },
   "devSettings": {
