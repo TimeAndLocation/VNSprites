@@ -82,7 +82,10 @@
     "violet": "Gamir",
     "forest": "Creon",
     "gold": "Zephyr",
-    "teal": "Arthur"
+    "teal": "Arthur",
+    "grey": "Sebastian",
+    "indigo": "Isolde",
+    "neon": "Daemon"
   },
   "aiSettings": {
     "showAiReminder": true
