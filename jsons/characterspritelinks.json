@@ -30,14 +30,14 @@
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop4/neutral.png"
   },
   "sebastion": {
-    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/angry.png",
-    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/embarrassed.png",
-    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/nervous.png",
-    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/questioning.png",
-    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/smile.png",
-    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/worry.png",
-    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/surprised.png",
-    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop5/neutral.png"
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/julius/neutral.png"
   },
   "isolde": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop6/angry.png",
@@ -262,6 +262,7 @@
 
 
 }
+
 
 
 
