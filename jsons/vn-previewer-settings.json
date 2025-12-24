@@ -85,7 +85,8 @@
     "teal": "Arthur",
     "grey": "Sebastian",
     "indigo": "Isolde",
-    "neon": "Daemon"
+    "neon": "Daemon",
+    "cobalt": "Nathan"
   },
   "aiSettings": {
     "showAiReminder": true
@@ -1674,6 +1675,60 @@
         "x": 57,
         "y": 12
       }
+    },
+    "cobalt": {
+      "sweat": {
+        "x": 50,
+        "y": 18
+      },
+      "shock": {
+        "x": 16,
+        "y": 11
+      },
+      "laugh": {
+        "x": 20,
+        "y": 14
+      },
+      "sparkle": {
+        "x": 50,
+        "y": 12
+      },
+      "anger": {
+        "x": 50,
+        "y": 11
+      },
+      "ghost": {
+        "x": 19,
+        "y": 21
+      },
+      "sigh": {
+        "x": 13,
+        "y": 23
+      },
+      "gloomy": {
+        "x": 50,
+        "y": 14
+      },
+      "confusion": {
+        "x": 15,
+        "y": 21
+      },
+      "exclamation": {
+        "x": 50,
+        "y": 15
+      },
+      "love": {
+        "x": 50,
+        "y": 14
+      },
+      "ellipsis": {
+        "x": 50,
+        "y": 15
+      },
+      "dizzy": {
+        "x": 50,
+        "y": 14
+      }
     }
   },
   "characterScaling": {
@@ -1813,6 +1868,11 @@
       "zoom": 331,
       "x": 60,
       "y": 151
+    },
+    "cobalt": {
+      "zoom": 300,
+      "x": 73,
+      "y": 152
     }
   },
   "devSettings": {
