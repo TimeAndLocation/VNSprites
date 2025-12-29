@@ -86,7 +86,10 @@
     "grey": "Sebastian",
     "indigo": "Isolde",
     "neon": "Daemon",
-    "cobalt": "Nathan"
+    "cobalt": "Nathan",
+    "lavender": "Aiden",
+    "olive": "Claude",
+    "apricot": "Raiden"
   },
   "aiSettings": {
     "showAiReminder": true
@@ -1729,6 +1732,192 @@
         "x": 50,
         "y": 14
       }
+    },
+    "lavender": {
+      "anger": {
+        "x": 59,
+        "y": 8
+      },
+      "sweat": {
+        "x": 55,
+        "y": 11
+      },
+      "idea": {
+        "x": 55,
+        "y": 8
+      },
+      "question": {
+        "x": 70,
+        "y": 9
+      },
+      "shock": {
+        "x": 53,
+        "y": 6
+      },
+      "laugh": {
+        "x": 52,
+        "y": 11
+      },
+      "sparkle": {
+        "x": 71,
+        "y": 7
+      },
+      "ghost": {
+        "x": 51,
+        "y": 12
+      },
+      "sigh": {
+        "x": 50,
+        "y": 16
+      },
+      "gloomy": {
+        "x": 56,
+        "y": 11
+      },
+      "confusion": {
+        "x": 50,
+        "y": 13
+      },
+      "exclamation": {
+        "x": 55,
+        "y": 11
+      },
+      "love": {
+        "x": 56,
+        "y": 10
+      },
+      "ellipsis": {
+        "x": 55,
+        "y": 9
+      },
+      "dizzy": {
+        "x": 55,
+        "y": 5
+      }
+    },
+    "olive": {
+      "anger": {
+        "x": 59,
+        "y": 10
+      },
+      "sweat": {
+        "x": 59,
+        "y": 13
+      },
+      "idea": {
+        "x": 58,
+        "y": 11
+      },
+      "question": {
+        "x": 72,
+        "y": 11
+      },
+      "shock": {
+        "x": 56,
+        "y": 10
+      },
+      "laugh": {
+        "x": 56,
+        "y": 11
+      },
+      "sparkle": {
+        "x": 74,
+        "y": 8
+      },
+      "ghost": {
+        "x": 58,
+        "y": 16
+      },
+      "sigh": {
+        "x": 54,
+        "y": 18
+      },
+      "gloomy": {
+        "x": 60,
+        "y": 11
+      },
+      "confusion": {
+        "x": 53,
+        "y": 17
+      },
+      "exclamation": {
+        "x": 59,
+        "y": 10
+      },
+      "love": {
+        "x": 60,
+        "y": 10
+      },
+      "ellipsis": {
+        "x": 59,
+        "y": 9
+      },
+      "dizzy": {
+        "x": 59,
+        "y": 11
+      }
+    },
+    "apricot": {
+      "anger": {
+        "x": 54,
+        "y": 11
+      },
+      "sweat": {
+        "x": 55,
+        "y": 11
+      },
+      "idea": {
+        "x": 53,
+        "y": 9
+      },
+      "question": {
+        "x": 66,
+        "y": 11
+      },
+      "shock": {
+        "x": 52,
+        "y": 10
+      },
+      "laugh": {
+        "x": -11,
+        "y": 12
+      },
+      "sparkle": {
+        "x": 67,
+        "y": 7
+      },
+      "ghost": {
+        "x": 52,
+        "y": 13
+      },
+      "sigh": {
+        "x": 50,
+        "y": 17
+      },
+      "gloomy": {
+        "x": 54,
+        "y": 11
+      },
+      "confusion": {
+        "x": 50,
+        "y": 14
+      },
+      "exclamation": {
+        "x": 55,
+        "y": 10
+      },
+      "love": {
+        "x": 55,
+        "y": 10
+      },
+      "ellipsis": {
+        "x": 54,
+        "y": 10
+      },
+      "dizzy": {
+        "x": 55,
+        "y": 9
+      }
     }
   },
   "characterScaling": {
@@ -1873,6 +2062,21 @@
       "zoom": 300,
       "x": 73,
       "y": 152
+    },
+    "lavender": {
+      "zoom": 334,
+      "x": 6,
+      "y": 159
+    },
+    "olive": {
+      "zoom": 333,
+      "x": -6,
+      "y": 159
+    },
+    "apricot": {
+      "zoom": 330,
+      "x": 13,
+      "y": 151
     }
   },
   "devSettings": {
