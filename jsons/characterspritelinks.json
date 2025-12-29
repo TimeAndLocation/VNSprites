@@ -19,6 +19,36 @@
     "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/derrick/surprised.png",
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/derrick/neutral.png"
   },
+  "raiden": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/raiden/neutral.png"
+  },
+  "aiden": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aiden/neutral.png"
+  },
+  "claude": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/claude/neutral.png"
+  },
   "nathan": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop8/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/aislop8/embarrassed.png",
@@ -272,6 +302,7 @@
 
 
 }
+
 
 
 
