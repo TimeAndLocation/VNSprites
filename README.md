@@ -10,5 +10,5 @@ Well, there are sprites ripped from visual novel games and then a bunch of AI sl
 # What about sound effects and JSONs?
 Just a few of them — namely, the JSONs that I use for the application, which will obviously change when I interact with the application, and are only _made_ for the application. There are also the sound effects, but... those are self-explanatory.
 
-# Are you a bum?
-Yes, absolutely. This repository isn't made for anybody to see, but if you do see it and are reading this readme... maybe just click off yo im crine son
+# Am I a bum?
+Yes, absolutely. This repository isn't made for anybody to see, but if you do see it and are reading this readme... maybe just click off cuz it's lowk embarrassing 🤔🤔
