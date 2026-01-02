@@ -74,7 +74,7 @@
     "brown": "Derrick",
     "orange": "Alex",
     "magenta": "Ranok",
-    "lilac": "Michael",
+    "lilac": "Previousmichael",
     "pastel": "???",
     "rose": "???",
     "mint": "Argo",
@@ -88,7 +88,7 @@
     "neon": "Daemon",
     "cobalt": "Nathan",
     "lavender": "Aiden",
-    "olive": "Claude",
+    "olive": "Michael",
     "apricot": "Raiden",
     "crimson": "Apollo",
     "plum": "Hades",
@@ -1802,19 +1802,19 @@
     },
     "olive": {
       "anger": {
-        "x": 59,
-        "y": 10
-      },
-      "sweat": {
-        "x": 59,
+        "x": 71,
         "y": 13
       },
+      "sweat": {
+        "x": 71,
+        "y": 18
+      },
       "idea": {
-        "x": 58,
+        "x": 71,
         "y": 11
       },
       "question": {
-        "x": 72,
+        "x": 69,
         "y": 11
       },
       "shock": {
@@ -1822,44 +1822,44 @@
         "y": 10
       },
       "laugh": {
-        "x": 56,
-        "y": 11
+        "x": 57,
+        "y": 15
       },
       "sparkle": {
-        "x": 74,
-        "y": 8
+        "x": 70,
+        "y": 13
       },
       "ghost": {
-        "x": 58,
-        "y": 16
+        "x": 53,
+        "y": 20
       },
       "sigh": {
-        "x": 54,
-        "y": 18
+        "x": 52,
+        "y": 24
       },
       "gloomy": {
-        "x": 60,
+        "x": 71,
         "y": 11
       },
       "confusion": {
-        "x": 53,
-        "y": 17
+        "x": 49,
+        "y": 20
       },
       "exclamation": {
-        "x": 59,
-        "y": 10
+        "x": 71,
+        "y": 15
       },
       "love": {
-        "x": 60,
-        "y": 10
+        "x": 71,
+        "y": 13
       },
       "ellipsis": {
-        "x": 59,
-        "y": 9
+        "x": 67,
+        "y": 14
       },
       "dizzy": {
-        "x": 59,
-        "y": 11
+        "x": 71,
+        "y": 13
       }
     },
     "apricot": {
@@ -2413,5 +2413,6 @@
   },
   "devSettings": {
     "bypassCache": true
-  }
+  },
+  "userCharacter": "olive"
 }
