@@ -97,9 +97,6 @@
     "ochre": "Nyx",
     "pine": "Michael"
   },
-  "aiSettings": {
-    "showAiReminder": true
-  },
   "manpuPositioning": {
     "purple": {
       "anger": {
@@ -2237,8 +2234,8 @@
         "y": 19
       },
       "idea": {
-        "x": 52,
-        "y": 13
+        "x": 56,
+        "y": 11
       },
       "question": {
         "x": 53,
@@ -2249,16 +2246,16 @@
         "y": 10
       },
       "laugh": {
-        "x": 38,
-        "y": 13
+        "x": 35,
+        "y": 14
       },
       "sparkle": {
-        "x": 52,
-        "y": 11
+        "x": 54,
+        "y": 14
       },
       "ghost": {
-        "x": 32,
-        "y": 18
+        "x": 36,
+        "y": 20
       },
       "sigh": {
         "x": 28,
@@ -2269,8 +2266,8 @@
         "y": 16
       },
       "confusion": {
-        "x": 28,
-        "y": 19
+        "x": 33,
+        "y": 20
       },
       "exclamation": {
         "x": 55,
@@ -2281,8 +2278,8 @@
         "y": 14
       },
       "ellipsis": {
-        "x": 50,
-        "y": 11
+        "x": 53,
+        "y": 15
       },
       "dizzy": {
         "x": 55,
@@ -2482,5 +2479,8 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "pine"
+  "userCharacter": "pine",
+  "aiSettings": {
+    "showAiReminder": true
+  }
 }
