@@ -95,7 +95,8 @@
     "silver": "Atlas",
     "denim": "Orion",
     "ochre": "Nyx",
-    "pine": "Michael"
+    "pine": "Michael",
+    "orchid": "Add"
   },
   "manpuPositioning": {
     "purple": {
@@ -2474,6 +2475,11 @@
       "zoom": 372,
       "x": 59,
       "y": 169
+    },
+    "orchid": {
+      "zoom": 394,
+      "x": 47,
+      "y": 174
     }
   },
   "devSettings": {
