@@ -43,6 +43,17 @@
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/apollo/neutral.png",
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/apollo/chibiicon.png"
   },
+  "echidna": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/neutral.png",
+    "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/echidna/chibiicon.png"
+  },
   "add": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/add/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/add/embarrassed.png",
@@ -407,6 +418,7 @@
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/chibiicon.png"
   }
 }
+
 
 
 
