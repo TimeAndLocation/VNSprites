@@ -109,6 +109,17 @@
     "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/atlas/neutral.png",
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/atlas/chibiicon.png"
   },
+  "ghetto": {
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/neutral.png",
+    "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/ghetto/chibiicon.png"
+  },
   "orion": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/orion/angry.png",
     "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/orion/embarrassed.png",
@@ -418,6 +429,7 @@
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/chibiicon.png"
   }
 }
+
 
 
 
