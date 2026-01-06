@@ -63,7 +63,7 @@
     "purple": "Leo",
     "turquoise": "Xavier",
     "pink": "Star",
-    "cyan": "Olivia",
+    "cyan": "Echidna",
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
@@ -2362,8 +2362,8 @@
     },
     "cyan": {
       "zoom": 341,
-      "x": 50,
-      "y": 160
+      "x": 21,
+      "y": 169
     },
     "orange": {
       "zoom": 324,
