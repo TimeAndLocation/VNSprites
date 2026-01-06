@@ -61,14 +61,14 @@
   },
   "characterNames": {
     "purple": "Leo",
-    "turquoise": "Xavier",
+    "turquoise": "Michael",
     "pink": "Star",
     "cyan": "Echidna",
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
     "lime": "???",
-    "salmon": "Maddy",
+    "salmon": "???",
     "red": "Theo",
     "yellow": "Liora",
     "brown": "Derrick",
@@ -76,7 +76,7 @@
     "magenta": "Ranok",
     "lilac": "Grantly",
     "pastel": "???",
-    "rose": "Elio",
+    "rose": "???",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -95,7 +95,7 @@
     "silver": "Atlas",
     "denim": "Orion",
     "ochre": "Nyx",
-    "pine": "Michael",
+    "pine": "Noah",
     "orchid": "Add"
   },
   "manpuPositioning": {
@@ -2341,9 +2341,9 @@
       "y": 150
     },
     "turquoise": {
-      "zoom": 234,
+      "zoom": 415,
       "x": 50,
-      "y": 120
+      "y": 195
     },
     "yellow": {
       "zoom": 271,
@@ -2519,7 +2519,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "pine",
+  "userCharacter": "turquoise",
   "aiSettings": {
     "showAiReminder": true
   }
