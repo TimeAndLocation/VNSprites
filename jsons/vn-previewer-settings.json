@@ -67,7 +67,7 @@
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
-    "lime": "???",
+    "lime": "Kai",
     "salmon": "???",
     "red": "Theo",
     "yellow": "Liora",
@@ -76,7 +76,7 @@
     "magenta": "Ranok",
     "lilac": "Grantly",
     "pastel": "???",
-    "rose": "???",
+    "rose": "Leo",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -233,20 +233,20 @@
         "y": 8
       },
       "idea": {
-        "x": 61,
-        "y": 3
+        "x": 57,
+        "y": 8
       },
       "love": {
         "x": 60,
         "y": 5
       },
       "question": {
-        "x": 59,
-        "y": 13
+        "x": 57,
+        "y": 5
       },
       "ellipsis": {
-        "x": 55,
-        "y": 3
+        "x": 56,
+        "y": 8
       },
       "dizzy": {
         "x": 59,
@@ -261,8 +261,8 @@
         "y": 8
       },
       "sparkle": {
-        "x": 60,
-        "y": 0
+        "x": 56,
+        "y": 7
       },
       "ghost": {
         "x": 30,
@@ -277,8 +277,8 @@
         "y": 9
       },
       "exclamation": {
-        "x": 30,
-        "y": 5
+        "x": 58,
+        "y": 8
       },
       "gloomy": {
         "x": 1,
@@ -481,8 +481,8 @@
         "y": 11
       },
       "idea": {
-        "x": 60,
-        "y": 2
+        "x": 74,
+        "y": 5
       },
       "love": {
         "x": 60,
@@ -505,12 +505,12 @@
         "y": 7
       },
       "laugh": {
-        "x": 38,
+        "x": 49,
         "y": 11
       },
       "sparkle": {
-        "x": 59,
-        "y": 9
+        "x": 73,
+        "y": 5
       },
       "ghost": {
         "x": 36,
@@ -525,8 +525,8 @@
         "y": 16
       },
       "exclamation": {
-        "x": 35,
-        "y": 13
+        "x": 73,
+        "y": 7
       },
       "gloomy": {
         "x": 0,
@@ -787,8 +787,8 @@
         "y": -2
       },
       "idea": {
-        "x": 48,
-        "y": -5
+        "x": 46,
+        "y": 6
       },
       "love": {
         "x": 50,
@@ -2319,6 +2319,10 @@
       "exclamation": {
         "x": 61,
         "y": 13
+      },
+      "love": {
+        "x": 60,
+        "y": 12
       }
     }
   },
