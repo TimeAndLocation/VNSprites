@@ -67,8 +67,8 @@
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
-    "lime": "Kai",
-    "salmon": "???",
+    "lime": "???",
+    "salmon": "Maya",
     "red": "Theo",
     "yellow": "Liora",
     "brown": "Derrick",
@@ -76,7 +76,7 @@
     "magenta": "Ranok",
     "lilac": "Grantly",
     "pastel": "???",
-    "rose": "Leo",
+    "rose": "???",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -489,11 +489,11 @@
         "y": 8
       },
       "question": {
-        "x": 60,
-        "y": 8
+        "x": 72,
+        "y": 4
       },
       "ellipsis": {
-        "x": 53,
+        "x": 72,
         "y": 8
       },
       "dizzy": {
