@@ -330,15 +330,15 @@
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/liora/chibiicon.png"
   },
   "leo": {
-    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/angry.png",
-    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/embarrassed.png",
-    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/nervous.png",
-    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/questioning.png",
-    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/smile.png",
-    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/worry.png",
-    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/surprised.png",
-    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/neutral.png",
-    "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/niall/chibiicon.png"
+    "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/angry.png",
+    "embarrassed": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/embarrassed.png",
+    "nervous": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/nervous.png",
+    "questioning": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/questioning.png",
+    "smile": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/smile.png",
+    "worry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/worry.png",
+    "surprised": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/surprised.png",
+    "neutral": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/neutral.png",
+    "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/leo/chibiicon.png"
   },
   "argo": {
     "angry": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/argo/angry.png",
@@ -429,6 +429,7 @@
     "chibiicon": "https://raw.githubusercontent.com/TimeAndLocation/VNSprites/refs/heads/main/xavier/chibiicon.png"
   }
 }
+
 
 
 
