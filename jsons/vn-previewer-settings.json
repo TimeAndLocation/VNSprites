@@ -76,7 +76,7 @@
     "magenta": "Ranok",
     "lilac": "Grantly",
     "pastel": "???",
-    "rose": "???",
+    "rose": "Kobi",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -105,8 +105,8 @@
         "y": 3
       },
       "sweat": {
-        "x": 51,
-        "y": 3
+        "x": 43,
+        "y": 15
       },
       "idea": {
         "x": 48,
@@ -122,7 +122,7 @@
       },
       "ellipsis": {
         "x": 45,
-        "y": 3
+        "y": 12
       },
       "dizzy": {
         "x": 53,
@@ -137,8 +137,8 @@
         "y": 7
       },
       "sparkle": {
-        "x": 48,
-        "y": 3
+        "x": 42,
+        "y": 7
       },
       "ghost": {
         "x": 23,
@@ -659,8 +659,8 @@
     },
     "green": {
       "anger": {
-        "x": 52,
-        "y": 1
+        "x": 50,
+        "y": 9
       },
       "sweat": {
         "x": 53,
@@ -2340,8 +2340,8 @@
     "purple": {
       "zoom": 275,
       "yOffset": 0,
-      "x": 65,
-      "y": 126
+      "x": 47,
+      "y": 136
     },
     "red": {
       "zoom": 288,
