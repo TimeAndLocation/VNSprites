@@ -113,8 +113,8 @@
         "y": 10
       },
       "love": {
-        "x": 42,
-        "y": 11
+        "x": 43,
+        "y": 10
       },
       "question": {
         "x": 61,
@@ -2338,10 +2338,10 @@
   },
   "profileViewSettings": {
     "purple": {
-      "zoom": 275,
+      "zoom": 376,
       "yOffset": 0,
-      "x": 47,
-      "y": 136
+      "x": 51,
+      "y": 181
     },
     "red": {
       "zoom": 288,
