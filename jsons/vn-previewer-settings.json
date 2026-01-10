@@ -67,7 +67,7 @@
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
-    "lime": "???",
+    "lime": "Ren",
     "salmon": "Maya",
     "red": "Theo",
     "yellow": "Liora",
@@ -117,8 +117,8 @@
         "y": 5
       },
       "question": {
-        "x": 52,
-        "y": 2
+        "x": 61,
+        "y": 7
       },
       "ellipsis": {
         "x": 45,
@@ -485,8 +485,8 @@
         "y": 5
       },
       "love": {
-        "x": 60,
-        "y": 8
+        "x": 71,
+        "y": 7
       },
       "question": {
         "x": 72,
@@ -1771,8 +1771,8 @@
         "y": 15
       },
       "sigh": {
-        "x": 50,
-        "y": 19
+        "x": 46,
+        "y": 15
       },
       "gloomy": {
         "x": 56,
