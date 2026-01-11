@@ -63,12 +63,12 @@
     "purple": "Leo",
     "turquoise": "Michael",
     "pink": "Star",
-    "cyan": "Echidna",
+    "cyan": "Olivia",
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
-    "lime": "Ren",
-    "salmon": "Maya",
+    "lime": "???",
+    "salmon": "???",
     "red": "Theo",
     "yellow": "Liora",
     "brown": "Derrick",
@@ -76,7 +76,7 @@
     "magenta": "Ranok",
     "lilac": "Grantly",
     "pastel": "???",
-    "rose": "Kobi",
+    "rose": "???",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -101,8 +101,8 @@
   "manpuPositioning": {
     "purple": {
       "anger": {
-        "x": 51,
-        "y": 3
+        "x": 42,
+        "y": 7
       },
       "sweat": {
         "x": 43,
@@ -477,8 +477,8 @@
         "y": 10
       },
       "sweat": {
-        "x": 61,
-        "y": 11
+        "x": 73,
+        "y": 9
       },
       "idea": {
         "x": 74,
@@ -517,8 +517,8 @@
         "y": 16
       },
       "sigh": {
-        "x": 30,
-        "y": 17
+        "x": 41,
+        "y": 15
       },
       "confusion": {
         "x": 32,
@@ -597,12 +597,12 @@
     },
     "blue": {
       "anger": {
-        "x": 41,
-        "y": 22
+        "x": 42,
+        "y": 7
       },
       "sweat": {
-        "x": 41,
-        "y": 29
+        "x": 42,
+        "y": 12
       },
       "idea": {
         "x": 43,
@@ -649,8 +649,8 @@
         "y": -10
       },
       "confusion": {
-        "x": 36,
-        "y": 28
+        "x": 39,
+        "y": 11
       },
       "exclamation": {
         "x": 41,
@@ -1813,7 +1813,7 @@
         "y": 11
       },
       "question": {
-        "x": 69,
+        "x": 71,
         "y": 11
       },
       "shock": {
@@ -2379,9 +2379,9 @@
       "y": 150
     },
     "blue": {
-      "zoom": 249,
-      "x": 46,
-      "y": 105
+      "zoom": 400,
+      "x": 55,
+      "y": 186
     },
     "magenta": {
       "zoom": 339,
@@ -2527,7 +2527,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "turquoise",
+  "userCharacter": "cyan",
   "aiSettings": {
     "showAiReminder": true
   }
