@@ -67,16 +67,16 @@
     "blue": "Kim",
     "cream": "Ronan",
     "green": "king rainey",
-    "lime": "???",
-    "salmon": "???",
+    "lime": "Kaelen",
+    "salmon": "Elara",
     "red": "Theo",
     "yellow": "Liora",
     "brown": "Derrick",
     "orange": "Alex",
     "magenta": "Ranok",
     "lilac": "Grantly",
-    "pastel": "???",
-    "rose": "???",
+    "pastel": "Sylas",
+    "rose": "Finnian",
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
@@ -741,8 +741,8 @@
         "y": 2
       },
       "ellipsis": {
-        "x": 59,
-        "y": 1
+        "x": 66,
+        "y": 11
       },
       "dizzy": {
         "x": 61,
@@ -1369,8 +1369,8 @@
         "y": 17
       },
       "ellipsis": {
-        "x": 50,
-        "y": 16
+        "x": 54,
+        "y": 12
       },
       "dizzy": {
         "x": 53,
@@ -1875,8 +1875,8 @@
         "y": 9
       },
       "question": {
-        "x": 66,
-        "y": 11
+        "x": 69,
+        "y": 9
       },
       "shock": {
         "x": 52,
@@ -2173,8 +2173,8 @@
         "y": 17
       },
       "idea": {
-        "x": 50,
-        "y": 13
+        "x": 48,
+        "y": 12
       },
       "question": {
         "x": 64,
@@ -2440,8 +2440,8 @@
     },
     "forest": {
       "zoom": 333,
-      "x": 71,
-      "y": 149
+      "x": 66,
+      "y": 159
     },
     "gold": {
       "zoom": 313,
