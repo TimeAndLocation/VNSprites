@@ -61,7 +61,7 @@
   },
   "characterNames": {
     "purple": "Leo",
-    "turquoise": "Michael",
+    "turquoise": "?...",
     "pink": "Star",
     "cyan": "Olivia",
     "blue": "Kim",
@@ -93,7 +93,7 @@
     "crimson": "Apollo",
     "plum": "Hades",
     "silver": "Atlas",
-    "denim": "Orion",
+    "denim": "Michael",
     "ochre": "Nyx",
     "pine": "Noah",
     "orchid": "Add"
@@ -606,7 +606,7 @@
       },
       "idea": {
         "x": 43,
-        "y": 21
+        "y": 6
       },
       "love": {
         "x": 42,
@@ -633,8 +633,8 @@
         "y": 25
       },
       "sparkle": {
-        "x": 62,
-        "y": 22
+        "x": 42,
+        "y": 4
       },
       "ghost": {
         "x": 42,
@@ -1991,40 +1991,40 @@
         "y": 15
       },
       "sweat": {
-        "x": 46,
-        "y": 16
+        "x": 61,
+        "y": 11
       },
       "idea": {
-        "x": 47,
-        "y": 12
+        "x": 61,
+        "y": 8
       },
       "question": {
         "x": 61,
         "y": 9
       },
       "laugh": {
-        "x": 46,
-        "y": 16
+        "x": 39,
+        "y": 9
       },
       "sparkle": {
-        "x": 44,
-        "y": 11
+        "x": 59,
+        "y": 7
       },
       "ghost": {
         "x": 46,
         "y": 18
       },
       "sigh": {
-        "x": 41,
-        "y": 20
+        "x": 38,
+        "y": 15
       },
       "gloomy": {
         "x": 45,
         "y": 16
       },
       "confusion": {
-        "x": 43,
-        "y": 16
+        "x": 36,
+        "y": 13
       },
       "exclamation": {
         "x": 48,
@@ -2035,8 +2035,8 @@
         "y": 14
       },
       "ellipsis": {
-        "x": 50,
-        "y": 11
+        "x": 61,
+        "y": 9
       },
       "dizzy": {
         "x": 45,
@@ -2527,7 +2527,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "cyan",
+  "userCharacter": "denim",
   "aiSettings": {
     "showAiReminder": true
   }
