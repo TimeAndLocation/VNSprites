@@ -81,11 +81,11 @@
     "amber": "Bayfleet",
     "violet": "Gamir",
     "forest": "Creon",
-    "gold": "Zephyr",
+    "gold": "Daemon",
     "teal": "Arthur",
     "grey": "Sebastian",
     "indigo": "Isolde",
-    "neon": "Daemon",
+    "neon": "Zephyr",
     "cobalt": "Nathan",
     "lavender": "Aiden",
     "olive": "Claude",
@@ -137,8 +137,8 @@
         "y": 7
       },
       "sparkle": {
-        "x": 42,
-        "y": 7
+        "x": 63,
+        "y": 8
       },
       "ghost": {
         "x": 23,
@@ -1321,36 +1321,36 @@
         "y": 15
       },
       "sweat": {
-        "x": 52,
-        "y": 17
+        "x": 56,
+        "y": 13
       },
       "idea": {
         "x": 53,
         "y": 13
       },
       "question": {
-        "x": 55,
-        "y": 15
+        "x": 53,
+        "y": 10
       },
       "shock": {
         "x": 17,
         "y": 13
       },
       "laugh": {
-        "x": 17,
+        "x": 28,
         "y": 15
       },
       "sparkle": {
-        "x": 49,
-        "y": 15
+        "x": 53,
+        "y": 11
       },
       "ghost": {
         "x": 20,
         "y": 25
       },
       "sigh": {
-        "x": 18,
-        "y": 25
+        "x": 26,
+        "y": 19
       },
       "gloomy": {
         "x": 53,
@@ -1387,8 +1387,8 @@
         "y": 20
       },
       "idea": {
-        "x": 40,
-        "y": 16
+        "x": 46,
+        "y": 9
       },
       "shock": {
         "x": 36,
@@ -1399,8 +1399,8 @@
         "y": 20
       },
       "sparkle": {
-        "x": 39,
-        "y": 17
+        "x": 64,
+        "y": 8
       },
       "ghost": {
         "x": 42,
