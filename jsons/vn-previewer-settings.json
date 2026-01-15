@@ -25,7 +25,7 @@
     "orange": "#FF851B",
     "turquoise": "#00ffbf",
     "pastel": "#D892F7",
-    "cream": "#E9E7AD",
+    "cream": "#00b815",
     "lilac": "#e9c2ff",
     "magenta": "#cd67d0",
     "blue": "#0074D9",
@@ -2041,6 +2041,10 @@
       "dizzy": {
         "x": 45,
         "y": 14
+      },
+      "shock": {
+        "x": 41,
+        "y": 4
       }
     },
     "plum": {
