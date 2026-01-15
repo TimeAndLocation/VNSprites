@@ -64,7 +64,7 @@
     "turquoise": "?...",
     "pink": "Star",
     "cyan": "Olivia",
-    "blue": "Kim",
+    "blue": "Kaelen",
     "cream": "Woe",
     "green": "king rainey",
     "lime": "???",
@@ -80,7 +80,7 @@
     "mint": "Argo",
     "amber": "Bayfleet",
     "violet": "Gamir",
-    "forest": "Creon",
+    "forest": "Kaelith",
     "gold": "Daemon",
     "teal": "Arthur",
     "grey": "Sebastian",
@@ -94,8 +94,8 @@
     "plum": "Hades",
     "silver": "Atlas",
     "denim": "Michael",
-    "ochre": "Nyx",
-    "pine": "Noah",
+    "ochre": "Bryn",
+    "pine": "Varkas",
     "orchid": "Add"
   },
   "manpuPositioning": {
@@ -953,8 +953,8 @@
         "y": 9
       },
       "sweat": {
-        "x": 59,
-        "y": 12
+        "x": 49,
+        "y": 14
       },
       "idea": {
         "x": 59,
@@ -965,12 +965,12 @@
         "y": 9
       },
       "shock": {
-        "x": 35,
-        "y": 3
+        "x": 22,
+        "y": 7
       },
       "laugh": {
-        "x": 36,
-        "y": 8
+        "x": 25,
+        "y": 9
       },
       "sparkle": {
         "x": 47,
@@ -981,16 +981,16 @@
         "y": 14
       },
       "sigh": {
-        "x": 29,
-        "y": 16
+        "x": 20,
+        "y": 19
       },
       "gloomy": {
         "x": 2,
         "y": -18
       },
       "confusion": {
-        "x": 29,
-        "y": 14
+        "x": 16,
+        "y": 16
       },
       "exclamation": {
         "x": 57,
@@ -1395,15 +1395,15 @@
         "y": 9
       },
       "shock": {
-        "x": 36,
-        "y": 19
+        "x": 43,
+        "y": 8
       },
       "laugh": {
         "x": 40,
         "y": 12
       },
       "sparkle": {
-        "x": 64,
+        "x": 63,
         "y": 8
       },
       "ghost": {
@@ -1411,24 +1411,24 @@
         "y": 27
       },
       "sigh": {
-        "x": 39,
-        "y": 29
+        "x": 40,
+        "y": 17
       },
       "gloomy": {
         "x": 41,
         "y": 18
       },
       "confusion": {
-        "x": 32,
-        "y": 26
+        "x": 38,
+        "y": 15
       },
       "exclamation": {
         "x": 69,
         "y": 21
       },
       "love": {
-        "x": 41,
-        "y": 17
+        "x": 45,
+        "y": 11
       },
       "ellipsis": {
         "x": 45,
@@ -1437,6 +1437,10 @@
       "dizzy": {
         "x": 68,
         "y": 18
+      },
+      "question": {
+        "x": 63,
+        "y": 10
       }
     },
     "teal": {
@@ -2035,20 +2039,20 @@
         "y": 9
       },
       "love": {
-        "x": 47,
-        "y": 14
+        "x": 60,
+        "y": 8
       },
       "ellipsis": {
         "x": 61,
         "y": 9
       },
       "dizzy": {
-        "x": 45,
-        "y": 14
+        "x": 60,
+        "y": 9
       },
       "shock": {
-        "x": 41,
-        "y": 4
+        "x": 42,
+        "y": 7
       }
     },
     "plum": {
