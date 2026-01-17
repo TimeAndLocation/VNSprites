@@ -86,9 +86,9 @@
     "grey": "???",
     "indigo": "???",
     "neon": "???",
-    "cobalt": "???",
+    "cobalt": "Akita Neru",
     "lavender": "???",
-    "olive": "Cl???",
+    "olive": "???",
     "apricot": "???",
     "crimson": "???",
     "plum": "???",
@@ -2482,8 +2482,8 @@
     },
     "cobalt": {
       "zoom": 300,
-      "x": 73,
-      "y": 152
+      "x": 51,
+      "y": 142
     },
     "lavender": {
       "zoom": 348,
