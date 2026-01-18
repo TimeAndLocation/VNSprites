@@ -91,12 +91,12 @@
     "olive": "???",
     "apricot": "???",
     "crimson": "???",
-    "plum": "Elian",
+    "plum": "nigger",
     "silver": "???",
     "denim": "Michael",
     "ochre": "???",
     "pine": "???",
-    "orchid": "???"
+    "orchid": "Elian"
   },
   "manpuPositioning": {
     "purple": {
@@ -1743,6 +1743,10 @@
       "dizzy": {
         "x": 50,
         "y": 14
+      },
+      "question": {
+        "x": 59,
+        "y": 8
       }
     },
     "lavender": {
@@ -2339,6 +2343,10 @@
       "shock": {
         "x": 34,
         "y": 5
+      },
+      "ghost": {
+        "x": 32,
+        "y": 18
       }
     }
   },
