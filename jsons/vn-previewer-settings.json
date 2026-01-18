@@ -68,11 +68,11 @@
     "cream": "???",
     "green": "Otto (the goat)",
     "lime": "???",
-    "salmon": "Marlowe",
+    "salmon": "???",
     "red": "???",
-    "yellow": "Elara",
+    "yellow": "???",
     "brown": "???",
-    "orange": "Kaelen",
+    "orange": "???",
     "magenta": "???",
     "lilac": "???",
     "pastel": "???",
@@ -91,12 +91,12 @@
     "olive": "???",
     "apricot": "???",
     "crimson": "???",
-    "plum": "nigger",
+    "plum": "???",
     "silver": "???",
     "denim": "Michael",
     "ochre": "???",
     "pine": "???",
-    "orchid": "Elian"
+    "orchid": "???"
   },
   "manpuPositioning": {
     "purple": {
@@ -385,8 +385,8 @@
         "y": 5
       },
       "sparkle": {
-        "x": 56,
-        "y": 0
+        "x": 42,
+        "y": 20
       },
       "ghost": {
         "x": 30,
@@ -1407,8 +1407,8 @@
         "y": 8
       },
       "ghost": {
-        "x": 42,
-        "y": 27
+        "x": 44,
+        "y": 17
       },
       "sigh": {
         "x": 40,
