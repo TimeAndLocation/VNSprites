@@ -62,15 +62,15 @@
   "characterNames": {
     "purple": "???",
     "turquoise": "???",
-    "pink": "porn",
+    "pink": "Xander",
     "cyan": "???",
     "blue": "???",
     "cream": "???",
     "green": "Otto (the goat)",
     "lime": "???",
     "salmon": "???",
-    "red": "???",
-    "yellow": "???",
+    "red": "Kaelen",
+    "yellow": "Lyra",
     "brown": "???",
     "orange": "???",
     "magenta": "???",
@@ -84,7 +84,7 @@
     "gold": "Daemon",
     "teal": "teal",
     "grey": "grey",
-    "indigo": "indigo",
+    "indigo": "Silas",
     "neon": "neon",
     "cobalt": "Akita Neru",
     "lavender": "lavender",
@@ -1515,12 +1515,12 @@
         "y": 21
       },
       "idea": {
-        "x": 42,
-        "y": 20
+        "x": 53,
+        "y": 10
       },
       "question": {
-        "x": 66,
-        "y": 16
+        "x": 53,
+        "y": 10
       },
       "shock": {
         "x": 39,
@@ -1531,8 +1531,8 @@
         "y": 18
       },
       "sparkle": {
-        "x": 45,
-        "y": 18
+        "x": 55,
+        "y": 9
       },
       "ghost": {
         "x": 42,
