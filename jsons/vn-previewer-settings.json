@@ -76,7 +76,7 @@
     "magenta": "???",
     "lilac": "???",
     "pastel": "???",
-    "rose": "???",
+    "rose": "Toby",
     "mint": "???",
     "amber": "???",
     "violet": "violet",
@@ -85,7 +85,7 @@
     "teal": "teal",
     "grey": "grey",
     "indigo": "Silas",
-    "neon": "neon",
+    "neon": "Neon",
     "cobalt": "Akita Neru",
     "lavender": "lavender",
     "olive": "olive",
@@ -94,7 +94,7 @@
     "plum": "???",
     "silver": "silver",
     "denim": "Michael",
-    "ochre": "???",
+    "ochre": "Bram",
     "pine": "???",
     "orchid": "???"
   },
@@ -1581,8 +1581,8 @@
         "y": 15
       },
       "idea": {
-        "x": 44,
-        "y": 14
+        "x": 41,
+        "y": 11
       },
       "question": {
         "x": 67,
