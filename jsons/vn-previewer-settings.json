@@ -62,39 +62,39 @@
   "characterNames": {
     "purple": "???",
     "turquoise": "???",
-    "pink": "Xander",
+    "pink": "???",
     "cyan": "???",
     "blue": "???",
-    "cream": "???",
-    "green": "Otto (the goat)",
+    "cream": "Michael",
+    "green": "loaw",
     "lime": "???",
     "salmon": "???",
-    "red": "Kaelen",
-    "yellow": "Lyra",
+    "red": "???",
+    "yellow": "???",
     "brown": "???",
     "orange": "???",
     "magenta": "???",
     "lilac": "???",
     "pastel": "???",
-    "rose": "Toby",
+    "rose": "???",
     "mint": "???",
     "amber": "???",
-    "violet": "violet",
+    "violet": "???",
     "forest": "???",
     "gold": "Daemon",
-    "teal": "teal",
-    "grey": "grey",
-    "indigo": "Silas",
-    "neon": "Neon",
-    "cobalt": "Akita Neru",
-    "lavender": "lavender",
-    "olive": "olive",
-    "apricot": "apricot",
+    "teal": "???",
+    "grey": "???",
+    "indigo": "???",
+    "neon": "???",
+    "cobalt": "???",
+    "lavender": "???",
+    "olive": "???",
+    "apricot": "???",
     "crimson": "???",
     "plum": "???",
-    "silver": "silver",
-    "denim": "Michael",
-    "ochre": "Bram",
+    "silver": "???",
+    "denim": "???",
+    "ochre": "???",
     "pine": "???",
     "orchid": "???"
   },
@@ -957,12 +957,12 @@
         "y": 14
       },
       "idea": {
-        "x": 59,
-        "y": 12
+        "x": 49,
+        "y": 10
       },
       "question": {
-        "x": 60,
-        "y": 9
+        "x": 49,
+        "y": 6
       },
       "shock": {
         "x": 22,
@@ -1011,8 +1011,8 @@
     },
     "magenta": {
       "anger": {
-        "x": 58,
-        "y": 16
+        "x": 61,
+        "y": 8
       },
       "sweat": {
         "x": 57,
@@ -1279,8 +1279,8 @@
         "y": 13
       },
       "laugh": {
-        "x": 39,
-        "y": 17
+        "x": 34,
+        "y": 7
       },
       "sparkle": {
         "x": 61,
@@ -1423,8 +1423,8 @@
         "y": 15
       },
       "exclamation": {
-        "x": 69,
-        "y": 21
+        "x": 46,
+        "y": 10
       },
       "love": {
         "x": 45,
@@ -1697,20 +1697,20 @@
         "y": 18
       },
       "shock": {
-        "x": 16,
-        "y": 11
+        "x": 33,
+        "y": 6
       },
       "laugh": {
-        "x": 20,
-        "y": 14
+        "x": 35,
+        "y": 15
       },
       "sparkle": {
-        "x": 50,
-        "y": 12
+        "x": 58,
+        "y": 9
       },
       "anger": {
-        "x": 50,
-        "y": 11
+        "x": 59,
+        "y": 9
       },
       "ghost": {
         "x": 19,
@@ -1729,12 +1729,12 @@
         "y": 21
       },
       "exclamation": {
-        "x": 50,
-        "y": 15
+        "x": 60,
+        "y": 11
       },
       "love": {
-        "x": 50,
-        "y": 14
+        "x": 61,
+        "y": 9
       },
       "ellipsis": {
         "x": 59,
@@ -2375,7 +2375,7 @@
     "salmon": 4.5,
     "mint": 7,
     "amber": 9.5,
-    "violet": 13.5,
+    "violet": 4,
     "forest": 10.5,
     "gold": 8,
     "teal": 8,
@@ -2585,7 +2585,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "denim",
+  "userCharacter": "cream",
   "aiSettings": {
     "showAiReminder": true
   }
