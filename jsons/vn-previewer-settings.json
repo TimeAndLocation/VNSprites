@@ -61,11 +61,11 @@
   },
   "characterNames": {
     "purple": "???",
-    "turquoise": "???",
+    "turquoise": "Michael",
     "pink": "???",
-    "cyan": "Olivia",
+    "cyan": "Sarah",
     "blue": "???",
-    "cream": "Michael",
+    "cream": "Kaelen",
     "green": "loaw",
     "lime": "???",
     "salmon": "???",
@@ -84,19 +84,19 @@
     "gold": "Daemon",
     "teal": "Alex",
     "grey": "???",
-    "indigo": "???",
-    "neon": "???",
+    "indigo": "Garrik",
+    "neon": "Valerius",
     "cobalt": "???",
-    "lavender": "???",
+    "lavender": "Jax",
     "olive": "???",
     "apricot": "???",
     "crimson": "???",
     "plum": "???",
     "silver": "???",
-    "denim": "???",
+    "denim": "Gedion",
     "ochre": "???",
-    "pine": "???",
-    "orchid": "???"
+    "pine": "Kai",
+    "orchid": "Joshua"
   },
   "manpuPositioning": {
     "purple": {
@@ -230,7 +230,7 @@
       },
       "sweat": {
         "x": 59,
-        "y": 8
+        "y": 10
       },
       "idea": {
         "x": 57,
@@ -295,8 +295,8 @@
         "y": 5
       },
       "sweat": {
-        "x": 53,
-        "y": 13
+        "x": 59,
+        "y": 15
       },
       "idea": {
         "x": 59,
@@ -315,8 +315,8 @@
         "y": 13
       },
       "dizzy": {
-        "x": 55,
-        "y": 7
+        "x": 58,
+        "y": 14
       },
       "shock": {
         "x": 38,
@@ -961,8 +961,8 @@
         "y": 10
       },
       "question": {
-        "x": 25,
-        "y": 11
+        "x": 48,
+        "y": 10
       },
       "shock": {
         "x": 22,
@@ -1453,8 +1453,8 @@
         "y": 13
       },
       "idea": {
-        "x": 59,
-        "y": 13
+        "x": 63,
+        "y": 8
       },
       "question": {
         "x": 57,
@@ -1469,8 +1469,8 @@
         "y": 14
       },
       "sparkle": {
-        "x": 59,
-        "y": 13
+        "x": 62,
+        "y": 9
       },
       "ghost": {
         "x": 35,
@@ -1497,8 +1497,8 @@
         "y": 13
       },
       "ellipsis": {
-        "x": 58,
-        "y": 14
+        "x": 44,
+        "y": 11
       },
       "dizzy": {
         "x": 62,
@@ -1507,12 +1507,12 @@
     },
     "indigo": {
       "anger": {
-        "x": 45,
-        "y": 18
+        "x": 55,
+        "y": 9
       },
       "sweat": {
-        "x": 40,
-        "y": 21
+        "x": 54,
+        "y": 14
       },
       "idea": {
         "x": 53,
@@ -1523,8 +1523,8 @@
         "y": 10
       },
       "shock": {
-        "x": 39,
-        "y": 16
+        "x": 32,
+        "y": 9
       },
       "laugh": {
         "x": 33,
@@ -1539,28 +1539,28 @@
         "y": 24
       },
       "sigh": {
-        "x": 38,
-        "y": 25
+        "x": 27,
+        "y": 19
       },
       "gloomy": {
         "x": 41,
         "y": 24
       },
       "confusion": {
-        "x": 38,
-        "y": 25
+        "x": 25,
+        "y": 17
       },
       "exclamation": {
-        "x": 42,
-        "y": 20
+        "x": 53,
+        "y": 12
       },
       "love": {
         "x": 54,
         "y": 10
       },
       "ellipsis": {
-        "x": 45,
-        "y": 20
+        "x": 53,
+        "y": 12
       },
       "dizzy": {
         "x": 40,
@@ -1597,8 +1597,8 @@
         "y": 14
       },
       "sparkle": {
-        "x": 43,
-        "y": 13
+        "x": 61,
+        "y": 11
       },
       "ghost": {
         "x": 44,
@@ -2069,8 +2069,8 @@
         "y": 9
       },
       "idea": {
-        "x": 55,
-        "y": 5
+        "x": 59,
+        "y": 10
       },
       "question": {
         "x": 70,
@@ -2081,8 +2081,8 @@
         "y": 11
       },
       "sparkle": {
-        "x": 71,
-        "y": 5
+        "x": 56,
+        "y": 8
       },
       "ghost": {
         "x": 52,
@@ -2110,7 +2110,7 @@
       },
       "ellipsis": {
         "x": 57,
-        "y": 5
+        "y": 12
       },
       "dizzy": {
         "x": 54,
@@ -2263,8 +2263,8 @@
         "y": 10
       },
       "laugh": {
-        "x": 36,
-        "y": 9
+        "x": 38,
+        "y": 13
       },
       "sparkle": {
         "x": 52,
@@ -2585,7 +2585,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "cream",
+  "userCharacter": "turquoise",
   "aiSettings": {
     "showAiReminder": true
   }
