@@ -63,9 +63,9 @@
     "purple": "???",
     "turquoise": "Michael",
     "pink": "???",
-    "cyan": "Sarah",
+    "cyan": "???",
     "blue": "???",
-    "cream": "Kaelen",
+    "cream": "???",
     "green": "loaw",
     "lime": "???",
     "salmon": "???",
@@ -84,19 +84,19 @@
     "gold": "Daemon",
     "teal": "Alex",
     "grey": "???",
-    "indigo": "Garrik",
-    "neon": "Valerius",
+    "indigo": "Vahl",
+    "neon": "???",
     "cobalt": "???",
-    "lavender": "Jax",
-    "olive": "???",
+    "lavender": "Joshua",
+    "olive": "Noah",
     "apricot": "???",
     "crimson": "???",
     "plum": "???",
     "silver": "???",
-    "denim": "Gedion",
+    "denim": "???",
     "ochre": "???",
-    "pine": "Kai",
-    "orchid": "Joshua"
+    "pine": "???",
+    "orchid": "???"
   },
   "manpuPositioning": {
     "purple": {
@@ -2065,8 +2065,8 @@
         "y": 8
       },
       "sweat": {
-        "x": 54,
-        "y": 9
+        "x": 59,
+        "y": 14
       },
       "idea": {
         "x": 59,
@@ -2097,8 +2097,8 @@
         "y": 8
       },
       "confusion": {
-        "x": 52,
-        "y": 13
+        "x": 34,
+        "y": 16
       },
       "exclamation": {
         "x": 59,
@@ -2115,6 +2115,10 @@
       "dizzy": {
         "x": 54,
         "y": 10
+      },
+      "shock": {
+        "x": 42,
+        "y": 9
       }
     },
     "ochre": {
