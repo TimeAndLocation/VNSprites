@@ -61,7 +61,7 @@
   },
   "characterNames": {
     "purple": "???",
-    "turquoise": "Michael",
+    "turquoise": "???",
     "pink": "???",
     "cyan": "???",
     "blue": "???",
@@ -70,7 +70,7 @@
     "lime": "???",
     "salmon": "???",
     "red": "???",
-    "yellow": "Lyra",
+    "yellow": "???",
     "brown": "???",
     "orange": "???",
     "magenta": "???",
@@ -84,14 +84,14 @@
     "gold": "Daemon",
     "teal": "Alex",
     "grey": "???",
-    "indigo": "Vahl",
+    "indigo": "???",
     "neon": "???",
     "cobalt": "???",
-    "lavender": "Joshua",
-    "olive": "Noah",
+    "lavender": "???",
+    "olive": "???",
     "apricot": "???",
     "crimson": "???",
-    "plum": "???",
+    "plum": "Michael",
     "silver": "???",
     "denim": "???",
     "ochre": "???",
@@ -2376,7 +2376,7 @@
     "pastel": 9.5,
     "lime": 2.5,
     "rose": 3.5,
-    "salmon": 4.5,
+    "salmon": 10.5,
     "mint": 7,
     "amber": 9.5,
     "violet": 4,
@@ -2390,7 +2390,7 @@
     "lavender": 8,
     "olive": 11.5,
     "apricot": 8,
-    "crimson": 9,
+    "crimson": 10.5,
     "denim": 8.5,
     "plum": 9.5,
     "ochre": 8,
@@ -2589,7 +2589,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "turquoise",
+  "userCharacter": "plum",
   "aiSettings": {
     "showAiReminder": true
   }
