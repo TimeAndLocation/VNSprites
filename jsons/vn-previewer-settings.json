@@ -68,7 +68,7 @@
     "cream": "???",
     "green": "loaw",
     "lime": "???",
-    "salmon": "???",
+    "salmon": "Kaelen",
     "red": "???",
     "yellow": "???",
     "brown": "???",
@@ -87,7 +87,7 @@
     "indigo": "???",
     "neon": "???",
     "cobalt": "???",
-    "lavender": "???",
+    "lavender": "Soren",
     "olive": "???",
     "apricot": "???",
     "crimson": "???",
@@ -895,8 +895,8 @@
         "y": 6
       },
       "idea": {
-        "x": 43,
-        "y": 6
+        "x": 63,
+        "y": 9
       },
       "question": {
         "x": 61,
