@@ -69,8 +69,8 @@
     "green": "loaw",
     "lime": "???",
     "salmon": "Kaelen",
-    "red": "???",
-    "yellow": "???",
+    "red": "Silas",
+    "yellow": "Lyra",
     "brown": "???",
     "orange": "???",
     "magenta": "???",
@@ -287,8 +287,8 @@
     },
     "yellow": {
       "exclamation": {
-        "x": 62,
-        "y": 5
+        "x": 58,
+        "y": 14
       },
       "anger": {
         "x": 58,
@@ -1457,8 +1457,8 @@
         "y": 8
       },
       "question": {
-        "x": 57,
-        "y": 10
+        "x": 62,
+        "y": 9
       },
       "shock": {
         "x": 36,
@@ -2065,16 +2065,16 @@
         "y": 8
       },
       "sweat": {
-        "x": 59,
-        "y": 14
+        "x": 60,
+        "y": 13
       },
       "idea": {
         "x": 59,
         "y": 10
       },
       "question": {
-        "x": 70,
-        "y": 5
+        "x": 60,
+        "y": 9
       },
       "laugh": {
         "x": 50,
