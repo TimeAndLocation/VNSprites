@@ -72,7 +72,7 @@
     "red": "Cillian",
     "yellow": "Lyra",
     "brown": "???",
-    "orange": "???",
+    "orange": "Hakari",
     "magenta": "???",
     "lilac": "???",
     "pastel": "???",
@@ -81,17 +81,17 @@
     "amber": "???",
     "violet": "???",
     "forest": "???",
-    "gold": "Daemon",
-    "teal": "Alex",
+    "gold": "Michael",
+    "teal": "???",
     "grey": "???",
     "indigo": "???",
     "neon": "???",
     "cobalt": "???",
-    "lavender": "Barrett",
+    "lavender": "Joshua",
     "olive": "???",
     "apricot": "???",
     "crimson": "???",
-    "plum": "Michael",
+    "plum": "Daemon",
     "silver": "???",
     "denim": "???",
     "ochre": "???",
@@ -525,8 +525,8 @@
         "y": 16
       },
       "exclamation": {
-        "x": 73,
-        "y": 7
+        "x": 72,
+        "y": 8
       },
       "gloomy": {
         "x": 0,
@@ -547,8 +547,8 @@
         "y": 9
       },
       "love": {
-        "x": 52,
-        "y": 2
+        "x": 41,
+        "y": 12
       },
       "question": {
         "x": 59,
@@ -1404,7 +1404,7 @@
       },
       "sparkle": {
         "x": 63,
-        "y": 8
+        "y": 10
       },
       "ghost": {
         "x": 45,
@@ -1651,8 +1651,8 @@
         "y": 12
       },
       "shock": {
-        "x": 31,
-        "y": 12
+        "x": 36,
+        "y": 7
       },
       "laugh": {
         "x": 36,
@@ -1953,12 +1953,12 @@
         "y": 9
       },
       "shock": {
-        "x": 50,
-        "y": 9
+        "x": 30,
+        "y": 7
       },
       "laugh": {
-        "x": 50,
-        "y": 13
+        "x": 28,
+        "y": 16
       },
       "sparkle": {
         "x": 51,
@@ -1969,8 +1969,8 @@
         "y": 15
       },
       "sigh": {
-        "x": 48,
-        "y": 16
+        "x": 27,
+        "y": 21
       },
       "gloomy": {
         "x": 54,
@@ -2593,7 +2593,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "plum",
+  "userCharacter": "gold",
   "aiSettings": {
     "showAiReminder": true
   }
