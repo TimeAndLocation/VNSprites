@@ -61,18 +61,18 @@
   },
   "characterNames": {
     "purple": "???",
-    "turquoise": "???",
+    "turquoise": "Emilia",
     "pink": "???",
     "cyan": "???",
-    "blue": "???",
+    "blue": "Michael",
     "cream": "???",
     "green": "loaw",
     "lime": "???",
-    "salmon": "Kaelen",
-    "red": "Cillian",
-    "yellow": "Lyra",
+    "salmon": "Kai",
+    "red": "???",
+    "yellow": "???",
     "brown": "???",
-    "orange": "Hakari",
+    "orange": "???",
     "magenta": "???",
     "lilac": "???",
     "pastel": "???",
@@ -81,17 +81,17 @@
     "amber": "???",
     "violet": "???",
     "forest": "???",
-    "gold": "Michael",
+    "gold": "Daemon",
     "teal": "???",
     "grey": "???",
     "indigo": "???",
     "neon": "???",
     "cobalt": "???",
     "lavender": "Joshua",
-    "olive": "???",
+    "olive": "shiii idk",
     "apricot": "???",
     "crimson": "???",
-    "plum": "Daemon",
+    "plum": "Hakari",
     "silver": "???",
     "denim": "???",
     "ochre": "???",
@@ -601,8 +601,8 @@
         "y": 7
       },
       "sweat": {
-        "x": 42,
-        "y": 12
+        "x": 51,
+        "y": 14
       },
       "idea": {
         "x": 52,
@@ -2593,7 +2593,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "gold",
+  "userCharacter": "blue",
   "aiSettings": {
     "showAiReminder": true
   }
