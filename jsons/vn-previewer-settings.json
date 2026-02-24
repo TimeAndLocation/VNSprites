@@ -64,7 +64,7 @@
     "turquoise": "Emilia",
     "pink": "???",
     "cyan": "???",
-    "blue": "Michael",
+    "blue": "Daemon",
     "cream": "???",
     "green": "loaw",
     "lime": "???",
@@ -74,21 +74,21 @@
     "brown": "???",
     "orange": "???",
     "magenta": "???",
-    "lilac": "???",
+    "lilac": "Michael",
     "pastel": "???",
     "rose": "???",
     "mint": "???",
     "amber": "???",
     "violet": "???",
     "forest": "???",
-    "gold": "Daemon",
+    "gold": "Alex",
     "teal": "???",
     "grey": "???",
     "indigo": "???",
     "neon": "???",
     "cobalt": "???",
     "lavender": "Joshua",
-    "olive": "shiii idk",
+    "olive": "???",
     "apricot": "???",
     "crimson": "???",
     "plum": "Hakari",
@@ -1093,8 +1093,8 @@
         "y": 3
       },
       "sweat": {
-        "x": 46,
-        "y": 5
+        "x": 43,
+        "y": 17
       },
       "idea": {
         "x": 39,
@@ -2593,7 +2593,7 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "blue",
+  "userCharacter": "lilac",
   "aiSettings": {
     "showAiReminder": true
   }
