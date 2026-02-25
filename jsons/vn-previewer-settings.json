@@ -73,8 +73,8 @@
     "yellow": "Lyriel",
     "brown": "???",
     "orange": "???",
-    "magenta": "???",
-    "lilac": "Michael",
+    "magenta": "Michael",
+    "lilac": "???",
     "pastel": "???",
     "rose": "???",
     "mint": "???",
@@ -1043,8 +1043,8 @@
         "y": 15
       },
       "sigh": {
-        "x": 34,
-        "y": 20
+        "x": 42,
+        "y": 16
       },
       "gloomy": {
         "x": 2,
@@ -2450,9 +2450,9 @@
       "y": 171
     },
     "magenta": {
-      "zoom": 339,
-      "x": 50,
-      "y": 143
+      "zoom": 322,
+      "x": 28,
+      "y": 156
     },
     "cream": {
       "zoom": 325,
@@ -2593,7 +2593,8 @@
   "devSettings": {
     "bypassCache": true
   },
-  "userCharacter": "lilac",
+  "musicServerUrl": "https://jonna-vesseled-lashon.ngrok-free.dev",
+  "userCharacter": "magenta",
   "aiSettings": {
     "showAiReminder": true
   }
