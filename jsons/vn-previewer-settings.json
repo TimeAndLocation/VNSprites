@@ -101,8 +101,9 @@
   "manpuPositioning": {
     "purple": {
       "anger": {
-        "x": 42,
-        "y": 7
+        "x": 41,
+        "y": 13,
+        "scale": 0.65
       },
       "sweat": {
         "x": 43,
@@ -637,20 +638,23 @@
         "y": 7
       },
       "ghost": {
-        "x": 42,
-        "y": 28
+        "x": 82,
+        "y": 17,
+        "flip": true
       },
       "sigh": {
-        "x": 40,
-        "y": 15
+        "x": 86,
+        "y": 19,
+        "flip": true
       },
       "gloomy": {
-        "x": 5,
-        "y": -10
+        "x": 48,
+        "y": 10
       },
       "confusion": {
-        "x": 39,
-        "y": 11
+        "x": 85,
+        "y": 17,
+        "flip": true
       },
       "exclamation": {
         "x": 49,
@@ -1011,20 +1015,25 @@
     },
     "magenta": {
       "anger": {
-        "x": 61,
-        "y": 8
+        "x": 55,
+        "y": 9,
+        "scale": 0.6,
+        "flip": false
       },
       "sweat": {
-        "x": 49,
-        "y": 13
+        "x": 52,
+        "y": 14,
+        "scale": 0.65
       },
       "idea": {
-        "x": 49,
-        "y": 8
+        "x": 51,
+        "y": 11,
+        "scale": 0.75
       },
       "question": {
-        "x": 77,
-        "y": 6
+        "x": 75,
+        "y": 11,
+        "scale": 0.8
       },
       "shock": {
         "x": 44,
@@ -1035,27 +1044,32 @@
         "y": 11
       },
       "sparkle": {
-        "x": 76,
-        "y": 8
+        "x": 53,
+        "y": 9,
+        "flip": true,
+        "scale": 0.8
       },
       "ghost": {
-        "x": 30,
-        "y": 15
+        "x": 82,
+        "y": 16,
+        "flip": true
       },
       "sigh": {
-        "x": 42,
-        "y": 16
+        "x": 85,
+        "y": 19,
+        "flip": true
       },
       "gloomy": {
-        "x": 2,
-        "y": -10
+        "x": 44,
+        "y": 9
       },
       "confusion": {
-        "x": 32,
-        "y": 16
+        "x": 89,
+        "y": 16,
+        "flip": true
       },
       "exclamation": {
-        "x": 60,
+        "x": 50,
         "y": 12
       },
       "love": {
@@ -1067,8 +1081,9 @@
         "y": 11
       },
       "dizzy": {
-        "x": 60,
-        "y": 11
+        "x": 52,
+        "y": 11,
+        "scale": 0.7
       }
     },
     "lilac": {
@@ -2593,8 +2608,8 @@
   "devSettings": {
     "bypassCache": true
   },
-  "musicServerUrl": "https://jonna-vesseled-lashon.ngrok-free.dev",
   "userCharacter": "magenta",
+  "musicServerUrl": "https://jonna-vesseled-lashon.ngrok-free.dev",
   "aiSettings": {
     "showAiReminder": true
   }
