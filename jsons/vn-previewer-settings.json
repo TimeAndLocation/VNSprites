@@ -2612,5 +2612,26 @@
   "musicServerUrl": "https://jonna-vesseled-lashon.ngrok-free.dev",
   "aiSettings": {
     "showAiReminder": true
-  }
+  },
+  "characterDefaultDirection": {
+    "purple": "right",
+    "red": "left",
+    "orange": "right",
+    "blue": "right",
+    "magenta": "right",
+    "lilac": "right",
+    "green": "right",
+    "lime": "right",
+    "salmon": "right",
+    "mint": "right",
+    "gold": "right",
+    "teal": "right",
+    "neon": "right",
+    "lavender": "right",
+    "olive": "right",
+    "apricot": "right",
+    "ochre": "right",
+    "silver": "right"
+  },
+  "autoFlipCharacters": true
 }
